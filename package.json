@@ -1,8 +1,5 @@
-
 {
-  "name": "hairquiz-ai",
-  "version": "1.0.0",
-  "type": "module",
+  "name": "meu-quiz-backend",
   "dependencies": {
     "groq-sdk": "latest"
   }
